@@ -3,3 +3,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 /* font-family: "Libre Baskerville", serif;  TITRES PRINCIPAUX */
+
+/* COULEURS 
+Noir : #000000
+Blanc : #ffffff
+Rose : #f9e6e0 */
+
+body{
+    color: #f9e6e0; 
+}

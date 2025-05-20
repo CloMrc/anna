@@ -1,5 +1,3 @@
-
-
 Vous êtes responsable de la réalisation de la partie front-end du site internet de la photographe
 Anna.
 Cette dernière souhaite un site codé en HTML et CSS qui permet de présenter son activité.
