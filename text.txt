@@ -1,0 +1,97 @@
+
+
+Vous êtes responsable de la réalisation de la partie front-end du site internet de la photographe
+Anna.
+Cette dernière souhaite un site codé en HTML et CSS qui permet de présenter son activité.
+Le site internet est composé d’une seule page, dans laquelle on retrouvera toutes les
+informations de la cliente.
+
+Langages de programmation
+Vous utiliserez les langages HTML et CSS pour programmer le site de cette cliente.
+Vous veillerez à ce que votre code soit totalement aux normes W3C et qu’il respecte les bonnes
+pratiques de ces deux langages.
+
+
+Contenus de la cliente
+Présentation d'Anna, Photographe Passionnée
+Bonjour et bienvenue ! Je suis ravie de vous présenter Anna, une photographe talentueuse qui
+transforme des moments ordinaires en souvenirs extraordinaires. Si vous recherchez une
+photographe professionnelle pour capturer des moments spéciaux dans votre vie, vous êtes au
+bon endroit.
+
+
+À Propos d'Anna
+Anna est une photographe passionnée basée dans [votre région]. Depuis son plus jeune âge,
+elle a été fascinée par l'art de la photographie et a rapidement développé son talent pour
+capturer l'essence de chaque instant. Sa passion pour la photographie est évidente dans chaque
+cliché qu'elle prend, et elle se consacre à créer des images qui racontent une histoire unique à
+chaque client.
+
+Services Offerts
+Anna propose une gamme complète de services de photographie pour répondre à vos besoins
+spécifiques. Que vous recherchiez des photos de mariage romantiques, des portraits de famille
+chaleureux, des séances photos de bébés adorables, des clichés artistiques, ou tout autre type
+de photographie, Anna est là pour vous. Ses services incluent :
+
+1. Photographie de Mariage : Anna saisit les moments spéciaux de votre grand jour avec
+élégance et professionnalisme, créant des souvenirs intemporels que vous chérirez pour
+toujours.
+
+2. Portraits de Famille : Elle capture la beauté des liens familiaux, créant des portraits
+authentiques et chaleureux que vous aurez plaisir à afficher chez vous.
+
+3. Photographie de Bébé et Nouveau-Né : Anna sait comment capturer la douce innocence
+des tout-petits, créant des souvenirs précieux pour les nouveaux parents.
+
+4. Photographie d'Événements : Que ce soit un anniversaire, une fête d'entreprise ou un
+événement spécial, Anna immortalise chaque moment mémorable.
+
+5. Photographie Artistique : Anna a un talent pour la photographie artistique, créant des
+images uniques et captivantes qui vous émerveilleront.
+
+
+Pourquoi choisir Anna ?
+● Talent Artistique : Anna possède un œil artistique exceptionnel et sait comment jouer
+avec la lumière et les angles pour créer des images époustouflantes.
+● Professionnalisme : Elle met un point d'honneur à fournir un service professionnel, en
+veillant à ce que chaque séance photo soit une expérience agréable et sans stress.
+● Personnalisation : Anna travaille en étroite collaboration avec chaque client pour
+comprendre leurs besoins spécifiques et s'assure que chaque photo reflète leur
+personnalité et leur style.
+● Souvenirs Durables : Les photos d'Anna deviennent des souvenirs intemporels que vous
+chérirez toute votre vie.
+
+
+Contact
+Si vous souhaitez en savoir plus sur les services d'Anna ou prendre rendez-vous pour une séance
+photo, n'hésitez pas à la contacter dès aujourd'hui. Chaque moment mérite d'être capturé, et
+Anna est là pour faire de chaque instant un souvenir inoubliable.
+ANNA PHOTOGRAPHIE - ZAC DU 14 Juillet, 62223 Saint-Laurent-Blangy.
+03 21 00 00 00
+contact@anna-photographie.com
+
+
+Branding
+Couleurs :
+Noir : #000
+Blanc : #fff
+Rose : #f9e6e0
+
+
+Polices d’exemples (peuvent-être changer par des polices de même style) :
+Lato : textes et sous-titres
+Libre Baskerville : titres principaux
+
+
+Logo
+Le logo est composé de l’identité de la photographe, avec la police Libre Baskerville. A vous de
+le mettre en place sur le site internet.
+
+
+Médias
+Vous disposez d’un fichier de médias à utiliser dans les différentes sections du site.
+
+
+Divers
+Pour vous accompagner dans ce projet, vous êtes accompagné de l’ami d’Anna, Tristan, qui a
+quelques notions en développement et qui pourra vous assister en cas de difficultés.
