@@ -8,7 +8,227 @@
 Noir : #000000
 Blanc : #ffffff
 Rose : #f9e6e0 */
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
 
-body{
-    color: #f9e6e0; 
+body {
+    display: flex;
+    flex-direction: column;
+    color: #000000;
+    font-family: "Lato", sans-serif;
+    background-color: #FDF8F5;
+}
+
+
+h1,
+h2 {
+    font-family: "Libre Baskerville", serif;
+}
+
+h1{
+    margin-left: 5rem;
+    font-size: 4rem;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+.logo {
+    height: 7rem;
+    width: auto;
+}
+
+/* HEADER */
+.top-head {
+    display: flex;
+    justify-content: center;
+    background-color: #F9E6E0;
+    min-height: 10vh;
+}
+
+/* NAV */
+nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    min-height: 10vh;
+    background-color: #FFFFFF24;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    margin: 0 3rem 0 0;
+}
+
+/* MAIN */
+/* BIENVENUE */
+.bienvenue {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    min-height: 80vh;
+    background-image: url(../media/tree-7963026_1280.jpg);
+    background-position: center 75%;
+    background-size: cover;
+}
+
+.logo-bienvenue {
+    height: 10rem;
+    border-radius: 50%;
+    margin-bottom: 20rem;
+}
+
+.vers-bas {
+    margin-bottom: 15rem;
+}
+
+/* A PROPOS */
+.apropos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10rem 20rem;
+    gap: 10rem;
+    background-color: #F9E6E0;
+    text-align: center;
+}
+
+/* UNIVERS */
+.univers-gd {
+    display: flex;
+    flex-direction: column;
+    margin: 10rem 20rem;
+    background-color: #F9E6E0;
+}
+
+.univers-g {
+    align-self: flex-start;
+    text-align: center;
+    width: 50%;
+}
+
+.univers-d {
+    align-self: flex-end;
+    text-align: center;
+    width: 50%;
+}
+
+.univers-g h2,
+.univers-d h2 {
+    text-align: center;
+}
+
+/* GALERIE */
+.img-gal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10rem;
+    gap: 3rem;
+}
+
+.galerie img{
+    max-height: 30rem;
+    width: auto;
+}
+/* SERVICES */
+
+.pellicule {
+    display: grid;
+    grid-template-rows: repeat(2,1fr);
+    grid-template-columns: repeat(2,1fr);
+    margin: 5rem 20rem;
+    background-color: #F9E6E0;
+}
+
+.card{
+    height: 20rem;
+    border-radius: 8px;
+    background-color: #FDF8F5;
+    margin: 5rem;
+}
+
+.card p{
+    height: 15rem;
+    text-align: center;
+}
+.card1 p{
+    background-image: url(../media/pexels-sam-kolder-2387873.jpg);
+    background-size: cover;
+}
+
+.card h3{
+    text-align: center;
+}
+
+.card hr{
+    color: #00000030;
+}
+
+/* CONTACT */
+.contact {
+    display: grid;
+    grid-template-rows: 1;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+    margin: 5rem 10rem;
+    align-items: center;
+    text-align: center;
+    background-color: #F9E6E0;
+}
+
+.contactt p{
+    text-align: center;
+    margin: 0 10rem;
+}
+
+iframe {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+    filter: grayscale(10);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-right: 1rem;
+}
+
+form input, form textarea{
+    background-color: #FDF8F5;
+    border-radius: 10px;
+    border: #FDF8F5;
+    font-family: "Lato", sans-serif;
+    padding: 0.5rem;
+}
+
+/* FOOTER */
+footer {
+    background-color: #F9E6E0;
+}
+
+.copy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.copy img {
+    height: auto;
+    width: 8rem;
 }

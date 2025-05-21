@@ -1,22 +1,9 @@
-Vous êtes responsable de la réalisation de la partie front-end du site internet de la photographe
-Anna.
-Cette dernière souhaite un site codé en HTML et CSS qui permet de présenter son activité.
-Le site internet est composé d’une seule page, dans laquelle on retrouvera toutes les
-informations de la cliente.
-
-Langages de programmation
-Vous utiliserez les langages HTML et CSS pour programmer le site de cette cliente.
-Vous veillerez à ce que votre code soit totalement aux normes W3C et qu’il respecte les bonnes
-pratiques de ces deux langages.
-
-
 Contenus de la cliente
 Présentation d'Anna, Photographe Passionnée
 Bonjour et bienvenue ! Je suis ravie de vous présenter Anna, une photographe talentueuse qui
 transforme des moments ordinaires en souvenirs extraordinaires. Si vous recherchez une
 photographe professionnelle pour capturer des moments spéciaux dans votre vie, vous êtes au
 bon endroit.
-
 
 À Propos d'Anna
 Anna est une photographe passionnée basée dans [votre région]. Depuis son plus jeune âge,
@@ -58,7 +45,6 @@ comprendre leurs besoins spécifiques et s'assure que chaque photo reflète leur
 personnalité et leur style.
 ● Souvenirs Durables : Les photos d'Anna deviennent des souvenirs intemporels que vous
 chérirez toute votre vie.
-
 
 Contact
 Si vous souhaitez en savoir plus sur les services d'Anna ou prendre rendez-vous pour une séance
