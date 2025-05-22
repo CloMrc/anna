@@ -51,6 +51,7 @@ a {
 .bgb{
     background-color: #FDF8F5;
     padding: 2%;
+    border-radius: 10px;
 }
 
 /* HEADER */
@@ -72,6 +73,7 @@ nav {
     position: sticky;
     top: 0;
     animation: 0.25s;
+    
 }
 
 nav a:hover{
