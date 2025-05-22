@@ -89,7 +89,7 @@ nav a:hover{
     background-position: center;
     min-height: 100vh;
     padding: 0 15%;
-    gap: 20%;
+    gap: 3rem;
 }
 
 .vers-bas{
@@ -104,7 +104,7 @@ nav a:hover{
     align-items: center;
     background-color: #F9E6E090;
     padding: 2%;
-    gap: 2%;
+    gap: 1rem;
 }
 
 .about img{
@@ -139,7 +139,7 @@ nav a:hover{
     align-items: center;
     background-color: #F9E6E090;
     padding: 2%;
-    gap: 2%;
+    gap: 1rem;
 }
 
 .univers i{
@@ -169,7 +169,7 @@ nav a:hover{
     background-color: #F9E6E090;
     display: flex;
     text-align: center;
-    gap: 2%;
+    gap: 1rem;
 }
 
 .card{
